@@ -9,3 +9,5 @@ Open a new terminal and navigate to the client directory using the cd client com
 Start the React application by running npm start. This will load the React app and open it in your default web browser.
 
 By following these steps, you should be able to start the server and the React application successfully. Make sure to set up the environment variables correctly and configure the MongoDB URI according to your specific setup.
+
+Also install all the modules!
